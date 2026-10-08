@@ -6,11 +6,11 @@ I build practical tools for developers and learners: mobile API debugging, Obsid
 
 ## Featured projects
 
-### [RideDash](https://github.com/DagerottDev/RideDash)
+### [OpenMoto](https://github.com/DagerottDev/OpenMoto)
 
 A native iOS motorcycle companion for navigation, fuel, maintenance, expenses, and ride history, with experimental Wi-Fi display projection. **In testing — testers and Swift contributors welcome.** Build from source; physical-device and display compatibility validation are pending. No App Store or TestFlight download.
 
-[Source](https://github.com/DagerottDev/RideDash) · [Tester guide](https://github.com/DagerottDev/RideDash/blob/main/Docs/TESTING.md) · [Report feedback](https://github.com/DagerottDev/RideDash/issues/new/choose)
+[Source](https://github.com/DagerottDev/OpenMoto) · [Tester guide](https://github.com/DagerottDev/OpenMoto/blob/main/Docs/TESTING.md) · [Report feedback](https://github.com/DagerottDev/OpenMoto/issues/new/choose)
 
 ### [YouTube Playlist Sync](https://github.com/DagerottDev/Youtube_Obsidian_Sync)
 
