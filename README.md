@@ -24,11 +24,11 @@ A local-first API debugger with a browser workspace for capturing and inspecting
 
 [Source](https://github.com/DagerottDev/mobile-api-studio) · [Usage guide](https://github.com/DagerottDev/mobile-api-studio/blob/main/docs/USAGE.md)
 
-### [ExamEngine](https://github.com/DagerottDev/ExamEngine)
+### [RecallForge](https://github.com/DagerottDev/RecallForge)
 
 An offline-first study workspace for question packs, exams, daily revision, and progress tracking.
 
-[Open the live app](https://dagerottdev.github.io/ExamEngine/) · [Source](https://github.com/DagerottDev/ExamEngine)
+[Open the live app](https://dagerottdev.github.io/RecallForge/) · [Source](https://github.com/DagerottDev/RecallForge)
 
 ## Tech stack
 
