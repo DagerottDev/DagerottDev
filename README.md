@@ -18,11 +18,11 @@ Turn public YouTube playlists into searchable Obsidian notes with metadata, tran
 
 [Install from Obsidian Community Plugins](https://obsidian.md/plugins?id=youtube-playlist-sync) · [Source](https://github.com/DagerottDev/Youtube_Obsidian_Sync)
 
-### [Mobile API Studio](https://github.com/DagerottDev/mobile-api-studio)
+### [SimulatorApiFlow](https://github.com/DagerottDev/SimulatorApiFlow)
 
 A local-first API debugger with a browser workspace for capturing and inspecting traffic, replaying requests, mocking responses, simulating network conditions, and comparing sessions. Start with an iOS Simulator or Android Emulator; build from source.
 
-[Source](https://github.com/DagerottDev/mobile-api-studio) · [Usage guide](https://github.com/DagerottDev/mobile-api-studio/blob/main/docs/USAGE.md)
+[Source](https://github.com/DagerottDev/SimulatorApiFlow) · [Usage guide](https://github.com/DagerottDev/SimulatorApiFlow/blob/main/docs/USAGE.md)
 
 ### [RecallForge](https://github.com/DagerottDev/RecallForge)
 
