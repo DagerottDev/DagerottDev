@@ -1,10 +1,16 @@
 # Hi, I'm Rajveer Sharma 👋
 
-**DagerottDev · Developer tools, knowledge workflows, and native iOS**
+**DagerottDev · Software engineering, finance research, and developer tools**
 
-I build practical tools for developers and learners: mobile API debugging, Obsidian knowledge workflows, offline-first study software, and an experimental iOS motorcycle companion. AI is optional in some workflows.
+I’m an SDE-II in iOS engineering at Tata CLiQ. I build open-source finance research software and developer tools, with a long-term interest in finance and fintech.
 
 ## Featured projects
+
+### [Option Analytics Platform](https://github.com/DagerottDev/AnalyticsPlateform)
+
+A self-hosted workspace for Indian options research: option chains, Greeks, volatility analysis, strategy payoffs, and historical replay. Built with Next.js, TypeScript, Python/FastAPI, and PostgreSQL, with Fyers and Dhan integrations. **MIT-licensed source release (v0.1.1).** Single-account workspace; broker coverage varies. Live broker connectivity, real orders, and production deployment are outside the release checks.
+
+[Source and setup](https://github.com/DagerottDev/AnalyticsPlateform) · [Source release](https://github.com/DagerottDev/AnalyticsPlateform/releases/tag/v0.1.1)
 
 ### [OpenMoto](https://github.com/DagerottDev/OpenMoto)
 
@@ -24,11 +30,7 @@ A local-first API debugger with a browser workspace for capturing and inspecting
 
 [Source](https://github.com/DagerottDev/SimulatorApiFlow) · [Usage guide](https://github.com/DagerottDev/SimulatorApiFlow/blob/main/docs/USAGE.md)
 
-### [RecallForge](https://github.com/DagerottDev/RecallForge)
-
-An offline-first study workspace for question packs, exams, daily revision, and progress tracking.
-
-[Open the live app](https://dagerottdev.github.io/RecallForge/) · [Source](https://github.com/DagerottDev/RecallForge)
+Also building [RecallForge](https://github.com/DagerottDev/RecallForge), an offline-first study workspace for question packs, exams, daily revision, and progress tracking. [Open the live app](https://dagerottdev.github.io/RecallForge/).
 
 ## Tech stack
 
@@ -36,7 +38,7 @@ An offline-first study workspace for question packs, exams, daily revision, and 
 
 ## Connect
 
-[X / Twitter](https://x.com/Rajveer761SM)
+[LinkedIn](https://www.linkedin.com/in/rajveer-sharma/) · [X / Twitter](https://x.com/Rajveer761SM)
 
 ## Support my open-source work
 
